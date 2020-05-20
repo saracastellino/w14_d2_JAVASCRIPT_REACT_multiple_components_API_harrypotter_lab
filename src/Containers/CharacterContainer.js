@@ -2,7 +2,6 @@ import React from 'react';
 import CharacterSelector from '../Components/CharacterSelector';
 import CharacterDetail from '../Components/CharacterDetail';
 
-
 class CharacterContainer extends React.Component {
     constructor(props){
         super(props);
